@@ -1,3 +1,4 @@
-a=3
-print ("a={}".format(a))
-print (a+a+a*a)
+a=input()
+b=input()
+a,b=int(a),int(b)
+print (a+b)
